@@ -1,5 +1,5 @@
-// const apikey = "c89ce63770eaa0b1077ac992d4cb4155";
-// const apiurl = "https://home.openweathermap.org/api_keys";
+const apikey = "c89ce63770eaa0b1077ac992d4cb4155";
+const apiurl = "https://home.openweathermap.org/api_keys";
 
 const searchbox = document.querySelector(".search input")
 const searchbtn = document.querySelector(".search button")
